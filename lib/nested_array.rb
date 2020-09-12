@@ -8,7 +8,7 @@ ORGANIC_PRODUCE = [
   "Asparagus"
 ]
 
-CONVENTIONAL_PRODUCE = [
+  CONVENTIONAL_PRODUCE = [
   "Grapefruit",
   "Pineapple",
   "Oranges",
@@ -25,7 +25,7 @@ end
 
 def sorted_matrix
   produce_storage_room_alphabetical = [
-     CONVENTIONAL_PRODUCE.sort
+     CONVENTIONAL_PRODUCE.sort,
      ORGANIC_PRODUCE.sort 
     ]
 end
