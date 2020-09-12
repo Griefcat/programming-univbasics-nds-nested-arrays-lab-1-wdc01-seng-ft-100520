@@ -27,15 +27,6 @@ def sorted_matrix
   produce_storage_room_alphabetical = [
      CONVENTIONAL_PRODUCE.sort
      ORGANIC_PRODUCE.sort 
-     
-   
-    [
-     "Asparagus",
-     "Avocadoes",
-     "Grapes",
-     "Potatoes",
-     "Strawberries"
-]
     ]
 end
 
